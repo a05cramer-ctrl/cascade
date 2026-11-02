@@ -1,1 +1,1 @@
-window.CASCADE_CFG={NAME:"Cascade",TICKER:"CASCADE",CA:"",CHAIN:"solana",PAD:"pumpfun",PAIR:"",X:"",BUY:"",CHART:"",CASCADE_TREASURY:""};
+window.CASCADE_CFG={NAME:"Cascade",TICKER:"CASCADE",CA:"2oFvcEjD34KiYLZ5mLDnw8ZCaQup8F91jBTVFHRdpump",CHAIN:"solana",PAD:"pumpfun",PAIR:"",X:"https://x.com/cascadepads",BUY:"https://pump.fun/coin/2oFvcEjD34KiYLZ5mLDnw8ZCaQup8F91jBTVFHRdpump",CHART:"https://gmgn.ai/sol/token/2oFvcEjD34KiYLZ5mLDnw8ZCaQup8F91jBTVFHRdpump",CASCADE_TREASURY:""};
